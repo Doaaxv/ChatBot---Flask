@@ -61,7 +61,19 @@ page_url = ["https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms
             "https://www.cdc.gov/coronavirus/2019-ncov/faq.html#COVID-19-and-Funerals",
             "https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Preparing-Your-Home-and-Family-for-COVID-19",
             "https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Children-and-Youth-with-Special-Healthcare-Needs",
-            "https://www.cdc.gov/coronavirus/2019-ncov/faq.html#School-Dismissals-and-Children"]
+            "https://www.cdc.gov/coronavirus/2019-ncov/faq.html#School-Dismissals-and-Children",
+            "https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html",
+            "https://emergency.cdc.gov/han/2020/han00430.asp",
+            "https://emergency.cdc.gov/han/2020/han00431.asp",
+            "https://emergency.cdc.gov/han/2020/HAN00429.asp",
+            "https://emergency.cdc.gov/han/2020/HAN00428.asp",
+            "https://emergency.cdc.gov/han/HAN00427.asp",
+            "https://emergency.cdc.gov/han/HAN00426.asp",
+            "https://emergency.cdc.gov/han/HAN00425.asp",
+            "https://emergency.cdc.gov/han/HAN00424.asp",
+            "https://www.cdc.gov/coronavirus/2019-ncov/travelers/cruise-ship/what-cdc-is-doing.html",
+            "https://www.cdc.gov/coronavirus/2019-ncov/covid-data/investigations-discovery/assessing-risk-factors.html",
+            "https://www.cdc.gov/coronavirus/2019-ncov/covid-data/faq-surveillance.html"]
 # opens the connection and downloads html page from url
 with open("info.txt", 'w') as f:
     f.write("")
