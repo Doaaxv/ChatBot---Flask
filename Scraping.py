@@ -85,6 +85,8 @@ for page in range(len(page_url)):
         for info in range(len(myList[elem])):
             if(word_count(str(myList[elem][info])) > 5):
                 text = text + str(myList[elem][info]) + "\n"
+
+    ######### TEXT PREPROCESSING #############################################################
     text = re.sub('<[^<]+?>', '', text)
     #text = text.lower()
     text = text.replace('.,','')
@@ -102,6 +104,9 @@ for page in range(len(page_url)):
     text = re.sub(r'([^.]*?See also[^.]*\.)','',text)
     tokens = nltk.sent_tokenize(text)
 
+    ######### TEXT PREPROCESSING #############################################################
+
+    #Wirting output in file 
     with open("info.txt", 'a', encoding='utf-8') as f_out:
         for token in tokens:
             f_out.write(token + '\n')

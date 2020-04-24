@@ -22,8 +22,6 @@ def chatbot(user_response):
     sent_tokens = nltk.sent_tokenize(text)
     word_tokens = nltk.word_tokenize(text)
 
-    #print(str(word_tokens) +' -----'+ str(sent_tokens))
-
     lemmer = nltk.WordNetLemmatizer()
 
     def LemTokens(tokens):
@@ -49,7 +47,6 @@ def chatbot(user_response):
             return chatbot_response
         else:
             chatbot_response = chatbot_response+sent_tokens[idx]
-            #print(sent_tokens)
             return chatbot_response
 
     flag = True
@@ -67,23 +64,16 @@ def chatbot(user_response):
             if  1==0:#important_words[word] in user_response:
                 user_response = important_words[word]
                 break
-        #user_response = user_response.lower()
 
         if(user_response!= "bye"):
-            #print('chatbot: ', end='' )
-            #print(response(user_response))
             bot_response = 'chatbot: ' + response(user_response)
             sent_tokens.remove(user_response)
-            #print("chatbot: Was this helpful?")
-            #rate = input()
-            #if (rate != 'yes'):
-            #    txtfile.replace(response(user_response),'')
             return(bot_response)
         else:
             flag = False
-            print('bye')
+            return 'bye'
 
-            ############################################## WEB PAGE
+############################################## WEB PAGE #################################################################
 app = Flask(__name__)
 
 @app.route('/home')

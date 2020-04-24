@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>Check you COVID-19 facts</title>
   </head>
   <body>
     <div class="container">
@@ -16,13 +16,12 @@
         User: {{user_input}}
         </div>
         <div class="alert alert-dark" role="alert">
-          Freind: {{bot_response}}
+          {{bot_response}}
       </div>
   
       <form  action="/process" method="POST">
         <div class="form-group">
-          <label for="exampleInputEmail1">Friend Chatbot</label>
-          <input type="text" name="user_input" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Talk to my friend"><br>
+          <input type="text" name="user_input" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your query"><br>
         <button type="submit" class="btn btn-primary">Send</button>
       </form>
     </div>
