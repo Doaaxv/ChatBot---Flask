@@ -50,21 +50,13 @@ def chatbot(user_response):
             return chatbot_response
 
     flag = True
-    important_words = ['vaccine', 'old people', 'cat', 'pet', 'animal', 'zoo', 'sun', 'weather', 'surface'
-                    'cloth', 'sneeze', 'sneezing','coughing','cough', 'distance', 'sick'
-                    ,'illness', 'ill', 'clean','protect', 'symptoms', 'spread',]
-
     f_out= open("info.txt", 'r', errors='ignore')
     txtfile = f_out.read()
 
     while(flag):
 
         user_response = user_response.lower()
-        for word in range(len(important_words)):
-            if  1==0:#important_words[word] in user_response:
-                user_response = important_words[word]
-                break
-
+        
         if(user_response!= "bye"):
             bot_response = response(user_response)
             sent_tokens.remove(user_response)
