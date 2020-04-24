@@ -84,7 +84,7 @@ for page in range(len(page_url)):
     for elem in range(len(myList)):
         for info in range(len(myList[elem])):
             if(word_count(str(myList[elem][info])) > 5):
-                text = text + str(myList[elem][info]) + ".\n"
+                text = text + str(myList[elem][info]) + "\n"
     text = re.sub('<[^<]+?>', '', text)
     #text = text.lower()
     text = text.replace('.,','')
@@ -98,23 +98,12 @@ for page in range(len(page_url)):
     text = text.replace('”', "")
     text =  re.sub(r'\[.*\]', '', text)
     text = re.sub(r'([^.]*?More details[^.]*\.)','',text)
-    #text = re.sub(r'([^.]*?How[^.]*\.)','',text)
-    #text = re.sub(r'([^.]*? ?[^.]*\.)','',text)
     text = re.sub(r'([^.]*?Additional information[^.]*\.)','',text)
     text = re.sub(r'([^.]*?See also[^.]*\.)','',text)
-    #text = text.replace('Additional information on how COVID-19 is spread is available at How COVID-19 Spreads Related: Talking to Children','')
-    #text = ' '.join(text.split())
     tokens = nltk.sent_tokenize(text)
 
     with open("info.txt", 'a', encoding='utf-8') as f_out:
         for token in tokens:
-            #token = token.translate(str.maketrans('','',string.punctuation))
             f_out.write(token + '\n')
-    # name the output file to write to local disk
-    #out_filename = "info.txt"
-
-    # opens file, and writes headers
-    #f = open(out_filename, "a")
-    #f.write() 
 
     f_out.close()  # Close the file
