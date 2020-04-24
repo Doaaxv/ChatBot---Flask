@@ -7,7 +7,6 @@ If you develop any of these emergency warning signs* for COVID-19 get medical a
 Please consult your medical provider for any other symptoms that are severe or concerning to you..
 Call 911 if you have a medical emergency: Notify the operator that you have, or think you might have, COVID-19.
 If possible, put on a cloth face covering before medical help arrives..
-Stop the spread of germs.
 A guide to help you make decisions and seek appropriate medical care.
 There are laboratory tests that can identify the virus that causes COVID-19 in respiratory specimens.
 State and local public health departments have received tests from CDC, whereas medical providers are getting tests developed by commercial manufacturers..
@@ -31,9 +30,7 @@ For information on testing for healthcare professionals, see recommendations for
 Protect Yourself and Others.
 You can take steps to slow the spread of COVID-19.
 Learn more.
-How Coronavirus Spreads.
 How to Protect Yourself.
-Cloth Face Covers.
 Cleaning and Disinfecting Your Home.
 COVID-19 is thought to spread mainly through close contact from person-to-person in respiratory droplets from someone who is infected.
 People who are infected often have symptoms of illness.
@@ -54,7 +51,6 @@ Information from the ongoing COVID-19 pandemic suggest that this virus is spread
 Printer-friendly versionpdf icon.
 Older adults and people who have severe underlying medical conditions like heart or lung disease or diabetes seem to be at higher risk for developing serious complications from COVID-19 illness.
 More information on Are you at higher risk for serious illness?.
-Related: More handwashing tips.
 Related: Hand Hygiene in Healthcare Settings.
 Printer friendly versionpdf icon.
 CDC recommends wearing cloth face coverings in public settings where other social distancing measures are difficult to maintain (e.g grocery stores and pharmacies), especially in areas of significant community-based transmission..
@@ -177,7 +173,6 @@ If you think you have been exposed to COVID-19, read about symptoms..
 If you or someone in your home might have been exposed.
 Be alert for symptoms.
 Watch for fever,* cough, or shortness of breath..
-If you feel healthy but:.
 As a family, you can plan and make decisions now that will protect you and your family during a COVID-19 outbreak..
 Related: How to Protect Yourself.
 *This list is not all inclusive.
@@ -358,14 +353,12 @@ Stigma affects the emotional or mental health(2) of stigmatized groups and the c
 Stopping stigma is important to making communities and community members resilient(3)..
 Everyone can help stop stigma related to COVID-19 by knowing the facts and sharing them with others in your community..
 Related: Resources on Mental Health and Coping During COVID-19..
-Related: Frequently Asked Questions.
 Printer friendly version pdf icon1 page.
 For up-to-date information, visit CDCs coronavirus disease 2019 situation summary page..
 Fear and anxiety about COVID-19 can cause people to avoid or reject others even though they are not at risk for spreading the virus..
 Older adults and people of any age who have serious underlying medical conditions may be at higher risk for more serious complications from COVID-19..
 For up-to-date information, visit CDCs coronavirus disease situation summary page..
 People who have been in close contact with a person known to have COVID-19 or people who live in or have recently been in an area with ongoing spread are at an increased risk of exposure..
-Seek medical advice if you.
 Tips to keep children healthy while schools out .
 Based on available evidence, children do not appear to be at higher risk for COVID-19 than adults.
 While some children and infants have been sick with COVID-19, adults make up most of the known cases to date..
@@ -428,7 +421,6 @@ State and local authorities will decide whether parks and other recreational fac
 Check with the park in advance to be sure you know which areas or services are open, such as bathroom facilities and concessions, and bring what you need with you..
 The National Park Serviceexternal iconexternal icon will decide on a park-by-park basis whether a national park will be open.
 Please check with individual parksexternal iconexternal icon for specific details since, in many cases, visitor centers, concessions, and bathroom facilities might be closed..
-Beaches or other swimming areas.
 State and local authorities will decide whether natural bodies of water and beaches or swim areas will be open.
 Please check with individual beaches or swim areas for specific details..
 If a park, beach, or recreational facility is open for public use, visiting is okay as long as you practice social distancing and everyday steps such as washing hands often and covering coughs and sneezes.
@@ -507,7 +499,6 @@ What you can do if you have possible or confirmed COVID-19:.
 There is no specific antiviral treatment recommended for COVID-19.
 People with COVID-19 should receive supportive care to help relieve symptoms.
 For severe cases, treatment should include care to support vital organ functions..
-or other non-healthcare settings.
 If you are caring for someone with COVID-19 in non-healthcare settings, follow this advice to protect yourself and others.
 Learn what to do when someone has symptoms of COVID-19 or when someone has been diagnosed with the virus.
 This information also pertains to people who have tested positive but are not showing symptoms..
@@ -602,7 +593,6 @@ Based on currently available information and clinical expertise, older adults an
 .
 We are learning more about COVID-19 every day; CDC will update the advice below as new information becomes available..
 Learn what else you can do as someone who may be at higher risk for severe illness, including staying home and away from other people as much as possible..
-Asthma (moderate-to-severe).
 Moderate-to-severe asthma may put people at higher risk for severe illness from COVID-19..
 Why you might be at higher risk.
 COVID-19 can affect your respiratory tract (nose, throat, lungs), cause an asthma attack, and possibly lead to pneumonia and serious illness..
@@ -728,7 +718,6 @@ Shelters should stay open unless homeless service providers, health departments
 Connecting people to stable housing should continue to be a priority..
 We do not currently know if pregnant people have a greater chance of getting sick from COVID-19 than the general public nor whether they are more likely to have serious illness as a result.
 Based on available information, pregnant people seem to have the same risk as adults who are not pregnant..
-However, we do know that.
 Related: How to Protect Yourself.
 The effects of COVID-19 on the health of racial and ethnic minority groups is still emerging; however, current data suggest a disproportionate burden of illness and death among racial and ethnic minority groups.
 A recent CDC MMWR report included race and ethnicity data from 580 patients hospitalized with lab-confirmed COVID-19 found that 45% of individuals for whom race or ethnicity data was available were white, compared to 55% of individuals in the surrounding community.
@@ -758,7 +747,6 @@ People who may have issues getting assistance if they become ill, like those ex
 These conditions and situations may result in increased stress during this pandemic.
 Fear and anxiety can be overwhelming and cause strong emotions..
 Things you can do to support yourself:.
-Related: Stress and Coping.
 Related: Cleaning and Disinfecting Your Home.
 Depending on how severe the outbreak is, your local public health officials may recommend community actions to reduce peoples risk of being exposed to COVID-19.
 These actions can slow the spread and reduce the impact of disease..
@@ -775,7 +763,6 @@ Long-term care facilities should be vigilant to prevent the introduction and spr
 See guidance for long-term care facilities..
 Related: Schools, Workplaces, and Community Locations.
 Related: If you are Sick or Caring for Someone.
-Updated April 23, 2020.
 Help control the spread of rumors and be aware of fraud schemes..
 A novel coronavirus is a new coronavirus that has not been previously identified.
 The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold..
@@ -974,7 +961,6 @@ Organizations should revert to the use of commercially produced, FDA-approved pr
 See FAQs about hand hygiene for healthcare personnel responding to COVID-2019..
 During an outbreak, stay calm and put your preparedness plan to work.
 Follow the steps below:.
-Protect yourself and others..
 Put your household plan into action..
 Depending on the situation, public health officials may recommend community actions to reduce exposures to COVID-19, such as school dismissals.
 Read or watch local media sources that report school dismissals or and watch for communication from your childs school.
@@ -1041,7 +1027,6 @@ If there is an outbreak in your community, stay home as much as possible.
 Watch for symptoms and emergency signs.
 If you get sick, stay home and call your doctor.
 More information on how to prepare, what to do if you get sick, and how communities and caregivers can support those at higher risk is available on People at Risk for Serious Illness from COVID-19..
-This list is based on:.
 As CDC gets more information about COVID-19 cases here in the United States, we will update this list as needed..
 Currently, there is no evidence to show that taking ibuprofen or naproxen can lead to a more severe infection of COVID-19..
 People with high blood pressure should take their blood pressure medications, as directed, and work with their healthcare provider to make sure that their blood pressure is as well controlled as possible.
@@ -1196,7 +1181,6 @@ See CDCs updated Interim Healthcare Infection Prevention and Control Recommendat
 Data to inform the definition of close contact are limited.
 Considerations when assessing close contact include the duration of exposure (e.g longer exposure time likely increases exposure risk) and the clinical symptoms of the person with COVID-19 (e.g coughing likely increases exposure risk as does exposure to a severely ill patient).
 Special consideration should be given to those exposed in health care settings..
-Updated April 23, 2020.
 Help control the spread of rumors and be aware of fraud schemes..
 A novel coronavirus is a new coronavirus that has not been previously identified.
 The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold..
@@ -1395,7 +1379,6 @@ Organizations should revert to the use of commercially produced, FDA-approved pr
 See FAQs about hand hygiene for healthcare personnel responding to COVID-2019..
 During an outbreak, stay calm and put your preparedness plan to work.
 Follow the steps below:.
-Protect yourself and others..
 Put your household plan into action..
 Depending on the situation, public health officials may recommend community actions to reduce exposures to COVID-19, such as school dismissals.
 Read or watch local media sources that report school dismissals or and watch for communication from your childs school.
@@ -1462,7 +1445,6 @@ If there is an outbreak in your community, stay home as much as possible.
 Watch for symptoms and emergency signs.
 If you get sick, stay home and call your doctor.
 More information on how to prepare, what to do if you get sick, and how communities and caregivers can support those at higher risk is available on People at Risk for Serious Illness from COVID-19..
-This list is based on:.
 As CDC gets more information about COVID-19 cases here in the United States, we will update this list as needed..
 Currently, there is no evidence to show that taking ibuprofen or naproxen can lead to a more severe infection of COVID-19..
 People with high blood pressure should take their blood pressure medications, as directed, and work with their healthcare provider to make sure that their blood pressure is as well controlled as possible.
@@ -1617,7 +1599,6 @@ See CDCs updated Interim Healthcare Infection Prevention and Control Recommendat
 Data to inform the definition of close contact are limited.
 Considerations when assessing close contact include the duration of exposure (e.g longer exposure time likely increases exposure risk) and the clinical symptoms of the person with COVID-19 (e.g coughing likely increases exposure risk as does exposure to a severely ill patient).
 Special consideration should be given to those exposed in health care settings..
-Updated April 23, 2020.
 Help control the spread of rumors and be aware of fraud schemes..
 A novel coronavirus is a new coronavirus that has not been previously identified.
 The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold..
@@ -1816,7 +1797,6 @@ Organizations should revert to the use of commercially produced, FDA-approved pr
 See FAQs about hand hygiene for healthcare personnel responding to COVID-2019..
 During an outbreak, stay calm and put your preparedness plan to work.
 Follow the steps below:.
-Protect yourself and others..
 Put your household plan into action..
 Depending on the situation, public health officials may recommend community actions to reduce exposures to COVID-19, such as school dismissals.
 Read or watch local media sources that report school dismissals or and watch for communication from your childs school.
@@ -1883,7 +1863,6 @@ If there is an outbreak in your community, stay home as much as possible.
 Watch for symptoms and emergency signs.
 If you get sick, stay home and call your doctor.
 More information on how to prepare, what to do if you get sick, and how communities and caregivers can support those at higher risk is available on People at Risk for Serious Illness from COVID-19..
-This list is based on:.
 As CDC gets more information about COVID-19 cases here in the United States, we will update this list as needed..
 Currently, there is no evidence to show that taking ibuprofen or naproxen can lead to a more severe infection of COVID-19..
 People with high blood pressure should take their blood pressure medications, as directed, and work with their healthcare provider to make sure that their blood pressure is as well controlled as possible.
@@ -2038,7 +2017,6 @@ See CDCs updated Interim Healthcare Infection Prevention and Control Recommendat
 Data to inform the definition of close contact are limited.
 Considerations when assessing close contact include the duration of exposure (e.g longer exposure time likely increases exposure risk) and the clinical symptoms of the person with COVID-19 (e.g coughing likely increases exposure risk as does exposure to a severely ill patient).
 Special consideration should be given to those exposed in health care settings..
-Updated April 23, 2020.
 Help control the spread of rumors and be aware of fraud schemes..
 A novel coronavirus is a new coronavirus that has not been previously identified.
 The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold..
@@ -2237,7 +2215,6 @@ Organizations should revert to the use of commercially produced, FDA-approved pr
 See FAQs about hand hygiene for healthcare personnel responding to COVID-2019..
 During an outbreak, stay calm and put your preparedness plan to work.
 Follow the steps below:.
-Protect yourself and others..
 Put your household plan into action..
 Depending on the situation, public health officials may recommend community actions to reduce exposures to COVID-19, such as school dismissals.
 Read or watch local media sources that report school dismissals or and watch for communication from your childs school.
@@ -2304,7 +2281,6 @@ If there is an outbreak in your community, stay home as much as possible.
 Watch for symptoms and emergency signs.
 If you get sick, stay home and call your doctor.
 More information on how to prepare, what to do if you get sick, and how communities and caregivers can support those at higher risk is available on People at Risk for Serious Illness from COVID-19..
-This list is based on:.
 As CDC gets more information about COVID-19 cases here in the United States, we will update this list as needed..
 Currently, there is no evidence to show that taking ibuprofen or naproxen can lead to a more severe infection of COVID-19..
 People with high blood pressure should take their blood pressure medications, as directed, and work with their healthcare provider to make sure that their blood pressure is as well controlled as possible.
@@ -2459,7 +2435,6 @@ See CDCs updated Interim Healthcare Infection Prevention and Control Recommendat
 Data to inform the definition of close contact are limited.
 Considerations when assessing close contact include the duration of exposure (e.g longer exposure time likely increases exposure risk) and the clinical symptoms of the person with COVID-19 (e.g coughing likely increases exposure risk as does exposure to a severely ill patient).
 Special consideration should be given to those exposed in health care settings..
-Updated April 23, 2020.
 Help control the spread of rumors and be aware of fraud schemes..
 A novel coronavirus is a new coronavirus that has not been previously identified.
 The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold..
@@ -2658,7 +2633,6 @@ Organizations should revert to the use of commercially produced, FDA-approved pr
 See FAQs about hand hygiene for healthcare personnel responding to COVID-2019..
 During an outbreak, stay calm and put your preparedness plan to work.
 Follow the steps below:.
-Protect yourself and others..
 Put your household plan into action..
 Depending on the situation, public health officials may recommend community actions to reduce exposures to COVID-19, such as school dismissals.
 Read or watch local media sources that report school dismissals or and watch for communication from your childs school.
@@ -2725,7 +2699,6 @@ If there is an outbreak in your community, stay home as much as possible.
 Watch for symptoms and emergency signs.
 If you get sick, stay home and call your doctor.
 More information on how to prepare, what to do if you get sick, and how communities and caregivers can support those at higher risk is available on People at Risk for Serious Illness from COVID-19..
-This list is based on:.
 As CDC gets more information about COVID-19 cases here in the United States, we will update this list as needed..
 Currently, there is no evidence to show that taking ibuprofen or naproxen can lead to a more severe infection of COVID-19..
 People with high blood pressure should take their blood pressure medications, as directed, and work with their healthcare provider to make sure that their blood pressure is as well controlled as possible.
@@ -2880,7 +2853,6 @@ See CDCs updated Interim Healthcare Infection Prevention and Control Recommendat
 Data to inform the definition of close contact are limited.
 Considerations when assessing close contact include the duration of exposure (e.g longer exposure time likely increases exposure risk) and the clinical symptoms of the person with COVID-19 (e.g coughing likely increases exposure risk as does exposure to a severely ill patient).
 Special consideration should be given to those exposed in health care settings..
-Updated April 23, 2020.
 Help control the spread of rumors and be aware of fraud schemes..
 A novel coronavirus is a new coronavirus that has not been previously identified.
 The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold..
@@ -3079,7 +3051,6 @@ Organizations should revert to the use of commercially produced, FDA-approved pr
 See FAQs about hand hygiene for healthcare personnel responding to COVID-2019..
 During an outbreak, stay calm and put your preparedness plan to work.
 Follow the steps below:.
-Protect yourself and others..
 Put your household plan into action..
 Depending on the situation, public health officials may recommend community actions to reduce exposures to COVID-19, such as school dismissals.
 Read or watch local media sources that report school dismissals or and watch for communication from your childs school.
@@ -3146,7 +3117,6 @@ If there is an outbreak in your community, stay home as much as possible.
 Watch for symptoms and emergency signs.
 If you get sick, stay home and call your doctor.
 More information on how to prepare, what to do if you get sick, and how communities and caregivers can support those at higher risk is available on People at Risk for Serious Illness from COVID-19..
-This list is based on:.
 As CDC gets more information about COVID-19 cases here in the United States, we will update this list as needed..
 Currently, there is no evidence to show that taking ibuprofen or naproxen can lead to a more severe infection of COVID-19..
 People with high blood pressure should take their blood pressure medications, as directed, and work with their healthcare provider to make sure that their blood pressure is as well controlled as possible.
@@ -3301,7 +3271,6 @@ See CDCs updated Interim Healthcare Infection Prevention and Control Recommendat
 Data to inform the definition of close contact are limited.
 Considerations when assessing close contact include the duration of exposure (e.g longer exposure time likely increases exposure risk) and the clinical symptoms of the person with COVID-19 (e.g coughing likely increases exposure risk as does exposure to a severely ill patient).
 Special consideration should be given to those exposed in health care settings..
-Updated April 23, 2020.
 Help control the spread of rumors and be aware of fraud schemes..
 A novel coronavirus is a new coronavirus that has not been previously identified.
 The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold..
@@ -3500,7 +3469,6 @@ Organizations should revert to the use of commercially produced, FDA-approved pr
 See FAQs about hand hygiene for healthcare personnel responding to COVID-2019..
 During an outbreak, stay calm and put your preparedness plan to work.
 Follow the steps below:.
-Protect yourself and others..
 Put your household plan into action..
 Depending on the situation, public health officials may recommend community actions to reduce exposures to COVID-19, such as school dismissals.
 Read or watch local media sources that report school dismissals or and watch for communication from your childs school.
@@ -3567,7 +3535,6 @@ If there is an outbreak in your community, stay home as much as possible.
 Watch for symptoms and emergency signs.
 If you get sick, stay home and call your doctor.
 More information on how to prepare, what to do if you get sick, and how communities and caregivers can support those at higher risk is available on People at Risk for Serious Illness from COVID-19..
-This list is based on:.
 As CDC gets more information about COVID-19 cases here in the United States, we will update this list as needed..
 Currently, there is no evidence to show that taking ibuprofen or naproxen can lead to a more severe infection of COVID-19..
 People with high blood pressure should take their blood pressure medications, as directed, and work with their healthcare provider to make sure that their blood pressure is as well controlled as possible.
@@ -3722,7 +3689,6 @@ See CDCs updated Interim Healthcare Infection Prevention and Control Recommendat
 Data to inform the definition of close contact are limited.
 Considerations when assessing close contact include the duration of exposure (e.g longer exposure time likely increases exposure risk) and the clinical symptoms of the person with COVID-19 (e.g coughing likely increases exposure risk as does exposure to a severely ill patient).
 Special consideration should be given to those exposed in health care settings..
-Updated April 23, 2020.
 Help control the spread of rumors and be aware of fraud schemes..
 A novel coronavirus is a new coronavirus that has not been previously identified.
 The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold..
@@ -3921,7 +3887,6 @@ Organizations should revert to the use of commercially produced, FDA-approved pr
 See FAQs about hand hygiene for healthcare personnel responding to COVID-2019..
 During an outbreak, stay calm and put your preparedness plan to work.
 Follow the steps below:.
-Protect yourself and others..
 Put your household plan into action..
 Depending on the situation, public health officials may recommend community actions to reduce exposures to COVID-19, such as school dismissals.
 Read or watch local media sources that report school dismissals or and watch for communication from your childs school.
@@ -3988,7 +3953,6 @@ If there is an outbreak in your community, stay home as much as possible.
 Watch for symptoms and emergency signs.
 If you get sick, stay home and call your doctor.
 More information on how to prepare, what to do if you get sick, and how communities and caregivers can support those at higher risk is available on People at Risk for Serious Illness from COVID-19..
-This list is based on:.
 As CDC gets more information about COVID-19 cases here in the United States, we will update this list as needed..
 Currently, there is no evidence to show that taking ibuprofen or naproxen can lead to a more severe infection of COVID-19..
 People with high blood pressure should take their blood pressure medications, as directed, and work with their healthcare provider to make sure that their blood pressure is as well controlled as possible.
@@ -4143,7 +4107,6 @@ See CDCs updated Interim Healthcare Infection Prevention and Control Recommendat
 Data to inform the definition of close contact are limited.
 Considerations when assessing close contact include the duration of exposure (e.g longer exposure time likely increases exposure risk) and the clinical symptoms of the person with COVID-19 (e.g coughing likely increases exposure risk as does exposure to a severely ill patient).
 Special consideration should be given to those exposed in health care settings..
-Updated April 23, 2020.
 Help control the spread of rumors and be aware of fraud schemes..
 A novel coronavirus is a new coronavirus that has not been previously identified.
 The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold..
@@ -4342,7 +4305,6 @@ Organizations should revert to the use of commercially produced, FDA-approved pr
 See FAQs about hand hygiene for healthcare personnel responding to COVID-2019..
 During an outbreak, stay calm and put your preparedness plan to work.
 Follow the steps below:.
-Protect yourself and others..
 Put your household plan into action..
 Depending on the situation, public health officials may recommend community actions to reduce exposures to COVID-19, such as school dismissals.
 Read or watch local media sources that report school dismissals or and watch for communication from your childs school.
@@ -4409,7 +4371,6 @@ If there is an outbreak in your community, stay home as much as possible.
 Watch for symptoms and emergency signs.
 If you get sick, stay home and call your doctor.
 More information on how to prepare, what to do if you get sick, and how communities and caregivers can support those at higher risk is available on People at Risk for Serious Illness from COVID-19..
-This list is based on:.
 As CDC gets more information about COVID-19 cases here in the United States, we will update this list as needed..
 Currently, there is no evidence to show that taking ibuprofen or naproxen can lead to a more severe infection of COVID-19..
 People with high blood pressure should take their blood pressure medications, as directed, and work with their healthcare provider to make sure that their blood pressure is as well controlled as possible.
@@ -4564,7 +4525,6 @@ See CDCs updated Interim Healthcare Infection Prevention and Control Recommendat
 Data to inform the definition of close contact are limited.
 Considerations when assessing close contact include the duration of exposure (e.g longer exposure time likely increases exposure risk) and the clinical symptoms of the person with COVID-19 (e.g coughing likely increases exposure risk as does exposure to a severely ill patient).
 Special consideration should be given to those exposed in health care settings..
-Updated April 23, 2020.
 Help control the spread of rumors and be aware of fraud schemes..
 A novel coronavirus is a new coronavirus that has not been previously identified.
 The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold..
@@ -4763,7 +4723,6 @@ Organizations should revert to the use of commercially produced, FDA-approved pr
 See FAQs about hand hygiene for healthcare personnel responding to COVID-2019..
 During an outbreak, stay calm and put your preparedness plan to work.
 Follow the steps below:.
-Protect yourself and others..
 Put your household plan into action..
 Depending on the situation, public health officials may recommend community actions to reduce exposures to COVID-19, such as school dismissals.
 Read or watch local media sources that report school dismissals or and watch for communication from your childs school.
@@ -4830,7 +4789,6 @@ If there is an outbreak in your community, stay home as much as possible.
 Watch for symptoms and emergency signs.
 If you get sick, stay home and call your doctor.
 More information on how to prepare, what to do if you get sick, and how communities and caregivers can support those at higher risk is available on People at Risk for Serious Illness from COVID-19..
-This list is based on:.
 As CDC gets more information about COVID-19 cases here in the United States, we will update this list as needed..
 Currently, there is no evidence to show that taking ibuprofen or naproxen can lead to a more severe infection of COVID-19..
 People with high blood pressure should take their blood pressure medications, as directed, and work with their healthcare provider to make sure that their blood pressure is as well controlled as possible.
@@ -4985,7 +4943,6 @@ See CDCs updated Interim Healthcare Infection Prevention and Control Recommendat
 Data to inform the definition of close contact are limited.
 Considerations when assessing close contact include the duration of exposure (e.g longer exposure time likely increases exposure risk) and the clinical symptoms of the person with COVID-19 (e.g coughing likely increases exposure risk as does exposure to a severely ill patient).
 Special consideration should be given to those exposed in health care settings..
-Updated April 23, 2020.
 Help control the spread of rumors and be aware of fraud schemes..
 A novel coronavirus is a new coronavirus that has not been previously identified.
 The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold..
@@ -5184,7 +5141,6 @@ Organizations should revert to the use of commercially produced, FDA-approved pr
 See FAQs about hand hygiene for healthcare personnel responding to COVID-2019..
 During an outbreak, stay calm and put your preparedness plan to work.
 Follow the steps below:.
-Protect yourself and others..
 Put your household plan into action..
 Depending on the situation, public health officials may recommend community actions to reduce exposures to COVID-19, such as school dismissals.
 Read or watch local media sources that report school dismissals or and watch for communication from your childs school.
@@ -5251,7 +5207,6 @@ If there is an outbreak in your community, stay home as much as possible.
 Watch for symptoms and emergency signs.
 If you get sick, stay home and call your doctor.
 More information on how to prepare, what to do if you get sick, and how communities and caregivers can support those at higher risk is available on People at Risk for Serious Illness from COVID-19..
-This list is based on:.
 As CDC gets more information about COVID-19 cases here in the United States, we will update this list as needed..
 Currently, there is no evidence to show that taking ibuprofen or naproxen can lead to a more severe infection of COVID-19..
 People with high blood pressure should take their blood pressure medications, as directed, and work with their healthcare provider to make sure that their blood pressure is as well controlled as possible.
@@ -5406,7 +5361,6 @@ See CDCs updated Interim Healthcare Infection Prevention and Control Recommendat
 Data to inform the definition of close contact are limited.
 Considerations when assessing close contact include the duration of exposure (e.g longer exposure time likely increases exposure risk) and the clinical symptoms of the person with COVID-19 (e.g coughing likely increases exposure risk as does exposure to a severely ill patient).
 Special consideration should be given to those exposed in health care settings..
-Updated April 23, 2020.
 Help control the spread of rumors and be aware of fraud schemes..
 A novel coronavirus is a new coronavirus that has not been previously identified.
 The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold..
@@ -5605,7 +5559,6 @@ Organizations should revert to the use of commercially produced, FDA-approved pr
 See FAQs about hand hygiene for healthcare personnel responding to COVID-2019..
 During an outbreak, stay calm and put your preparedness plan to work.
 Follow the steps below:.
-Protect yourself and others..
 Put your household plan into action..
 Depending on the situation, public health officials may recommend community actions to reduce exposures to COVID-19, such as school dismissals.
 Read or watch local media sources that report school dismissals or and watch for communication from your childs school.
@@ -5672,7 +5625,6 @@ If there is an outbreak in your community, stay home as much as possible.
 Watch for symptoms and emergency signs.
 If you get sick, stay home and call your doctor.
 More information on how to prepare, what to do if you get sick, and how communities and caregivers can support those at higher risk is available on People at Risk for Serious Illness from COVID-19..
-This list is based on:.
 As CDC gets more information about COVID-19 cases here in the United States, we will update this list as needed..
 Currently, there is no evidence to show that taking ibuprofen or naproxen can lead to a more severe infection of COVID-19..
 People with high blood pressure should take their blood pressure medications, as directed, and work with their healthcare provider to make sure that their blood pressure is as well controlled as possible.
@@ -5827,7 +5779,6 @@ See CDCs updated Interim Healthcare Infection Prevention and Control Recommendat
 Data to inform the definition of close contact are limited.
 Considerations when assessing close contact include the duration of exposure (e.g longer exposure time likely increases exposure risk) and the clinical symptoms of the person with COVID-19 (e.g coughing likely increases exposure risk as does exposure to a severely ill patient).
 Special consideration should be given to those exposed in health care settings..
-Updated April 23, 2020.
 Help control the spread of rumors and be aware of fraud schemes..
 A novel coronavirus is a new coronavirus that has not been previously identified.
 The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold..
@@ -6026,7 +5977,6 @@ Organizations should revert to the use of commercially produced, FDA-approved pr
 See FAQs about hand hygiene for healthcare personnel responding to COVID-2019..
 During an outbreak, stay calm and put your preparedness plan to work.
 Follow the steps below:.
-Protect yourself and others..
 Put your household plan into action..
 Depending on the situation, public health officials may recommend community actions to reduce exposures to COVID-19, such as school dismissals.
 Read or watch local media sources that report school dismissals or and watch for communication from your childs school.
@@ -6093,7 +6043,6 @@ If there is an outbreak in your community, stay home as much as possible.
 Watch for symptoms and emergency signs.
 If you get sick, stay home and call your doctor.
 More information on how to prepare, what to do if you get sick, and how communities and caregivers can support those at higher risk is available on People at Risk for Serious Illness from COVID-19..
-This list is based on:.
 As CDC gets more information about COVID-19 cases here in the United States, we will update this list as needed..
 Currently, there is no evidence to show that taking ibuprofen or naproxen can lead to a more severe infection of COVID-19..
 People with high blood pressure should take their blood pressure medications, as directed, and work with their healthcare provider to make sure that their blood pressure is as well controlled as possible.
@@ -6248,7 +6197,6 @@ See CDCs updated Interim Healthcare Infection Prevention and Control Recommendat
 Data to inform the definition of close contact are limited.
 Considerations when assessing close contact include the duration of exposure (e.g longer exposure time likely increases exposure risk) and the clinical symptoms of the person with COVID-19 (e.g coughing likely increases exposure risk as does exposure to a severely ill patient).
 Special consideration should be given to those exposed in health care settings..
-Updated April 23, 2020.
 Help control the spread of rumors and be aware of fraud schemes..
 A novel coronavirus is a new coronavirus that has not been previously identified.
 The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold..
@@ -6447,7 +6395,6 @@ Organizations should revert to the use of commercially produced, FDA-approved pr
 See FAQs about hand hygiene for healthcare personnel responding to COVID-2019..
 During an outbreak, stay calm and put your preparedness plan to work.
 Follow the steps below:.
-Protect yourself and others..
 Put your household plan into action..
 Depending on the situation, public health officials may recommend community actions to reduce exposures to COVID-19, such as school dismissals.
 Read or watch local media sources that report school dismissals or and watch for communication from your childs school.
@@ -6514,7 +6461,6 @@ If there is an outbreak in your community, stay home as much as possible.
 Watch for symptoms and emergency signs.
 If you get sick, stay home and call your doctor.
 More information on how to prepare, what to do if you get sick, and how communities and caregivers can support those at higher risk is available on People at Risk for Serious Illness from COVID-19..
-This list is based on:.
 As CDC gets more information about COVID-19 cases here in the United States, we will update this list as needed..
 Currently, there is no evidence to show that taking ibuprofen or naproxen can lead to a more severe infection of COVID-19..
 People with high blood pressure should take their blood pressure medications, as directed, and work with their healthcare provider to make sure that their blood pressure is as well controlled as possible.

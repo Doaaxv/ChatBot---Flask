@@ -83,7 +83,7 @@ for page in range(len(page_url)):
     text = ''
     for elem in range(len(myList)):
         for info in range(len(myList[elem])):
-            if(word_count(str(myList[elem][info])) > 4):
+            if(word_count(str(myList[elem][info])) > 5):
                 text = text + str(myList[elem][info]) + ".\n"
     text = re.sub('<[^<]+?>', '', text)
     #text = text.lower()
