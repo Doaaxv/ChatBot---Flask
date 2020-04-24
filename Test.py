@@ -66,7 +66,7 @@ def chatbot(user_response):
                 break
 
         if(user_response!= "bye"):
-            bot_response = 'chatbot: ' + response(user_response)
+            bot_response = response(user_response)
             sent_tokens.remove(user_response)
             return(bot_response)
         else:
@@ -80,11 +80,11 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
-@app.route('/process', methods=['POST'])
+@app.route('/process')# methods=['POST'])
 def process():
-    user_input = request.form['user_input']
+    user_input = request.args.get("user_input")#.form['user_input']
     output = chatbot(user_input)
-    return render_template('index.html', user_input = user_input, bot_response=output)
+    return output#render_template('index.html', user_input = user_input, bot_response=output)
 
 if __name__ == '__main__':
     app.run(debug=True, port=8082)
