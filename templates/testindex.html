@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+    <head>
+      <!-- Required meta tags -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
+      <!-- Bootstrap CSS -->
+      <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+  
+      <title>Hello, world!</title>
+    </head>
+    <body>
+        <div class="wrapper">
+            <div class="sidebar">
+              <h2 class="verone">Lorem ipsum</h2>
+              <p class="verone">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe quisquam consectetur quos nam tenetur nemo optio itaque veritatis, sequi ipsum tempore at voluptatum molestiae odit maxime ex numquam laudantium aut.</p>
+            </div>
+            <div class="chat-container">
+              <div class="top-bar">
+                <div class="user-info">
+                    <h2 class="vertwo">User: {{user_input}}</h2>
+                </div>
+              </div>
+              <div class="chat-window">
+                  <h2 class="vertwo"> {{bot_response}} </h2>
+              </div>
+              <form  action="/process" method="POST">
+                <div class="bottom-bar">
+                    <input class="chat-input" type="text" name="user_input" class="form-control" placeholder="Enter your sentence"/>
+                    <button class="send-btn" id="send-btn" type="submit">Send</button>
+                </div>
+            </form> 
+            </div>
+          </div>
+        <!-- <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script> -->
+    </body>
+</html>
