@@ -104,7 +104,7 @@ def contact():
 def home():
     return render_template('firstpage.html')
 
-@app.route('/process')# methods=['POST'])
+@app.route('/get')# methods=['POST'])
 def process():
     user_input = request.args.get("user_input")#.form['user_input']
     if word_count(user_input) < 3:

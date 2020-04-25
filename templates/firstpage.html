@@ -135,7 +135,7 @@ input.addEventListener("keyup", function(event) {
       $("#container").append('<div class="alert alert-primary" role="alert">User: '+ user_input +' </div>');
       $("#container").append('<div class="alert alert-dark" role="alert">Chatbot: Loading... </div>');
       $("#container").animate({ scrollTop: 20000000 }, "slow");
-      $.get("/process", { user_input }).done(function(data) {
+      $.get("/get", { user_input }).done(function(data) {
         $("#container").children("div:last").remove()
         $("#container").append('<div class="alert alert-dark" role="alert">Chatbot: '+ data +' </div>');
         $("#container").animate({ scrollTop: 20000000 }, "slow");
