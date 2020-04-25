@@ -7,6 +7,15 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import re
 from flask import Flask, render_template, request
+import requests
+
+from flask_pymongo import PyMongo
+from bson.json_util import dumps
+from bson.objectid import ObjectId
+from flask import jsonify
+from dotenv import load_dotenv
+load_dotenv()
+import os
 
 warnings.filterwarnings('ignore')
 
@@ -105,6 +114,7 @@ def home():
 def process():
     user_input = request.args.get("user_input")
     output = chatbot(user_input)
+    requests.post("http://127.0.0.1:6622/addQandA?q="+user_input+"&answer="+output)
     return output
 
 if __name__ == '__main__':
