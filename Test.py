@@ -7,6 +7,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import re
 from flask import Flask, render_template, request
+from flask_mail import Message, Mail
 
 warnings.filterwarnings('ignore')
 
@@ -67,9 +68,18 @@ def chatbot(user_response):
 ############################################## WEB PAGE #################################################################
 app = Flask(__name__)
 
-#@app.route('/home')
-#def index():
-#    return render_template('index.html')
+##### Email Configuraion for Contact page :
+mail = Mail()
+app.config["MAIL_SERVER"] = "smtp.gmail.com"
+app.config["MAIL_PORT"] = 465
+app.config["MAIL_USE_SSL"] = True
+app.config["MAIL_USERNAME"] = 'thebeezco19@gmail.com'
+app.config["MAIL_PASSWORD"] = 'THE@@beez'
+
+mail.init_app(app)
+
+
+
 def word_count(string):
     tokens = string.split()
     n_tokens = len(tokens)
@@ -81,7 +91,14 @@ def index():
 
 @app.route('/contact' , methods=['GET','POST'])
 def contact():
-    return render_template('contact.html')
+    if request.method == 'POST':
+      msg = Message("New Msg from a Fan!!", sender="thebeezco19@gmail.com", recipients=["thebeezco19@gmail.com"])
+      msg.body = request.form['Message'] +"\n \n \nThis msg was sent by: {email}".format(email=request.form['Email']) 
+      mail.send(msg)
+      return render_template('contact.html', success=True)
+
+    else:    
+        return render_template('contact.html')
 
 @app.route('/home' , methods=['GET'])
 def home():
