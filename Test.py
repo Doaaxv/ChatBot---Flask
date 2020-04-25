@@ -8,6 +8,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 import re
 from flask import Flask, render_template, request
 from flask_mail import Message, Mail
+#Chatbase
+from chatbase import Message
 
 warnings.filterwarnings('ignore')
 
@@ -65,6 +67,29 @@ def chatbot(user_response):
             flag = False
             return 'bye'
 
+def not_handeled(user_response):
+    msg = Message(api_key= "6f6aa25c-e467-49f7-9799-67efb413b829",
+            type= "user",
+            platform= "web",
+            message= user_response,
+            version= "1.0",
+            user_id= "user-404",
+            not_handled= "true")
+    resp = msg.send()
+    print(resp)
+
+def handeled(user_response):
+    msg = Message(api_key= "6f6aa25c-e467-49f7-9799-67efb413b829",
+            type= "user",
+            platform= "web",
+            message= user_response,
+            version= "1.0",
+            user_id= "user-200"
+    )
+    resp = msg.send()
+    print(resp)
+
+
 ############################################## WEB PAGE #################################################################
 app = Flask(__name__)
 
@@ -110,6 +135,10 @@ def process():
     if word_count(user_input) < 3:
         return ("Sorry, in order to get the best response possible, your query must be at least three words long.")
     output = chatbot(user_input)
+    if "Sorry, cannot understand your query" in output:
+        not_handeled(user_input)
+    else :
+        handeled(user_input)
     return output#render_template('index.html', user_input = user_input, bot_response=output)
 
 if __name__ == '__main__':
