@@ -9,7 +9,7 @@ import re
 from flask import Flask, render_template, request
 from flask_mail import Message, Mail
 #Chatbase
-from chatbase import Message
+from chatbase import Message as MsgChat
 
 warnings.filterwarnings('ignore')
 
@@ -68,7 +68,7 @@ def chatbot(user_response):
             return 'bye'
 
 def not_handeled(user_response):
-    msg = Message(api_key= "6f6aa25c-e467-49f7-9799-67efb413b829",
+    msg = MsgChat(api_key= "6f6aa25c-e467-49f7-9799-67efb413b829",
             type= "user",
             platform= "web",
             message= user_response,
@@ -79,7 +79,7 @@ def not_handeled(user_response):
     print(resp)
 
 def handeled(user_response):
-    msg = Message(api_key= "6f6aa25c-e467-49f7-9799-67efb413b829",
+    msg = MsgChat(api_key= "6f6aa25c-e467-49f7-9799-67efb413b829",
             type= "user",
             platform= "web",
             message= user_response,
@@ -125,7 +125,7 @@ def contact():
     else:    
         return render_template('contact.html')
 
-@app.route('/home' , methods=['GET'])
+@app.route('/home')# , methods=['GET'])
 def home():
     return render_template('firstpage.html')
 
