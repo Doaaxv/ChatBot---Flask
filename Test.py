@@ -10,13 +10,17 @@ from flask import Flask, render_template, request
 from flask_mail import Message, Mail
 #Chatbase
 from chatbase import Message as MsgChat
+import os
 
 warnings.filterwarnings('ignore')
 
-#nltk.download('punkt')
-#nltk.download('wordnet')
+nltk.download('punkt')
+nltk.download('wordnet')
 
-f = open("info.txt","r", errors='ignore')
+THIS_FOLDER = os.path.dirname(os.path.abspath(__file__))
+my_file = os.path.join(THIS_FOLDER,'info.txt')
+
+f = open(my_file,"r", errors='ignore')
 text = f.read()
 
 def chatbot(user_response):
